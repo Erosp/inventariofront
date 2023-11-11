@@ -1,0 +1,23 @@
+.bg-gris{
+    background: #e7e7e7;
+}
+
+.bg-verde{
+    background: #7407a9 !important;
+    color: #fff;
+}
+
+.li{
+    list-style: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+
+.li:hover{
+    background: #54047b;
+}
+
+.icono-menu{
+    width: 30px;
+}
