@@ -1,0 +1,14 @@
+body{
+    background: #c9c9c9 !important;
+}
+
+.rem18{
+    width: 18rem;
+}
+
+.btn-compra{
+    width: 80px;
+    height: 80px;
+    right: 15px;
+    bottom: 20px;
+}

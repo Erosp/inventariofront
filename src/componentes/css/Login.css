@@ -1,0 +1,16 @@
+.bg-login{
+    background-image: url('http://localhost:3000/img/login.jpg');
+    background-size: cover;
+}
+
+.transparente{
+    background: rgba(255, 255, 255, 0.5) !important;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.mw-310px{
+    min-width: 310px !important;
+}

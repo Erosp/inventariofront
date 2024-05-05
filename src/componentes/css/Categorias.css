@@ -1,0 +1,28 @@
+.bg-verde-limon{
+    background: #66bb6a !important;
+    color: #fff !important;
+}
+
+.bg-verde-limon:hover{
+    background: #38893b !important;
+    color: #fff !important;
+}
+
+.bg-rojo{
+    background: #a01c48 !important;
+    color: #fff !important;
+}
+
+.bg-rojo:hover{
+    background: #7b0d31 !important;
+    color: #fff !important;
+}
+
+.w-img{
+    width: 45px;
+    cursor: pointer;
+}
+
+.img-btn{
+    width: 20px;
+}
